@@ -1,4 +1,1 @@
-一些总结
-====
-
-1. [前端模块化发展史](https://github.com/jianghai/blog/issues/2)
+[一些记录](https://github.com/jianghai/blog/issues)
